@@ -1,2 +1,4 @@
 # Intro-to-Data-Science-DTSC-3010---Final-Project-Home-Loan-Approval-Prediction
 Final project designing a complete classification model for the accurate prediction of home loan approval based on applicant characteristics
+
+WHERE WE'RE AT CURRENTLY: Data have been pre-processed, including handling NaN values, fixing data types, etc., and continuous data have been standardized. Some EDA was performed using violin plots and bar charts after pre-processing, however I'm not quite satisfied with this analysis and would like to perform initial EDA as an extension of the initial data quality inspection, then perform a secondary analsyis after cleaning and standardization. This may aid u sin understanding the oevrarching trends and distributions of the raw data better, rather than immediately jumping to visualizing the transformed data. The cleaned and standardized datasets also then just need to be exported as new .csv files for modeling
